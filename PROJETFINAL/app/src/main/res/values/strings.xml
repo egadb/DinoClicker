@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DinoClicker</string>
+    <string name="shop">Shop</string>
+    <string name="progress">Progress</string>
+    <string name="mouseClick">Manual Mater</string>
+    <string name="maker1">Incubator</string>
+    <string name="upgradeButton">Upgrade</string>
+    <string name="x1">buy x1</string>
+    <string name="x10">buy x10</string>
+    <string name="x100">buy x100</string>
+    <string name="max">buy max</string>
+    <string name="Leave">leave</string>
+    <string name="custom_toast_message">Achievement unlocked : </string>
+    <string name="Achivement1">A beginning...</string>
+    <string name="Achivement2">First man killed by dinosaur</string>
+    <string name="Achivement3">Africa in condemned</string>
+    <string name="Achivement4">America is the only habitable continent</string>
+    <string name="Achivement5">America is going down</string>
+    <string name="Achivement6">Earth is re-populated!</string>
+    <string name="credits">Dev Team</string>
+    <string name="about">About</string>
+    <string name="graphTitle">Dinosaurs population evolution!</string>
+    <string name="graphHorizontalAxis">Time (s)</string>
+    <string name="graphVerticalAxis">Dinos</string>
+    <string name="maker2">Extra Meat</string>
+    <string name="maker3">Extra Trees</string>
+    <string name="maker4">Extra Funding</string>
+    <string name="maker5">Genetically Modified Dinos</string>
+</resources>
